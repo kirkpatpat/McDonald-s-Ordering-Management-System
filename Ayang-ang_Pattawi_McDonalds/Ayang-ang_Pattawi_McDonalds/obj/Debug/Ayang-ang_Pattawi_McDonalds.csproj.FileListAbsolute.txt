@@ -1,0 +1,39 @@
+C:\Users\Garth\source\repos\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\bin\Debug\Ayang-ang_Pattawi_McDonalds.exe.config
+C:\Users\Garth\source\repos\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\bin\Debug\Ayang-ang_Pattawi_McDonalds.exe
+C:\Users\Garth\source\repos\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\bin\Debug\Ayang-ang_Pattawi_McDonalds.pdb
+C:\Users\Garth\source\repos\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.csproj.AssemblyReference.cache
+C:\Users\Garth\source\repos\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.csproj.SuggestedBindingRedirects.cache
+C:\Users\Garth\source\repos\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang_ang_Pattawi_McDonalds.MainWindow.resources
+C:\Users\Garth\source\repos\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang_ang_Pattawi_McDonalds.Properties.Resources.resources
+C:\Users\Garth\source\repos\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.csproj.GenerateResource.cache
+C:\Users\Garth\source\repos\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.csproj.CoreCompileInputs.cache
+C:\Users\Garth\source\repos\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.exe
+C:\Users\Garth\source\repos\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.pdb
+C:\Users\Garth\source\repos\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\bin\Debug\Guna.UI2.dll
+C:\Users\Garth\source\repos\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.csproj.CopyComplete
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\bin\Debug\Ayang-ang_Pattawi_McDonalds.exe.config
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\bin\Debug\Ayang-ang_Pattawi_McDonalds.exe
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\bin\Debug\Ayang-ang_Pattawi_McDonalds.pdb
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.csproj.AssemblyReference.cache
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang_ang_Pattawi_McDonalds.MainWindow.resources
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang_ang_Pattawi_McDonalds.Properties.Resources.resources
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.csproj.GenerateResource.cache
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.csproj.CopyComplete
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.exe
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.pdb
+C:\Users\kirkp\OneDrive\Documents\BSCS(3)\1st sem\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\bin\Debug\Ayang-ang_Pattawi_McDonalds.exe.config
+C:\Users\kirkp\OneDrive\Documents\BSCS(3)\1st sem\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\bin\Debug\Ayang-ang_Pattawi_McDonalds.exe
+C:\Users\kirkp\OneDrive\Documents\BSCS(3)\1st sem\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\bin\Debug\Ayang-ang_Pattawi_McDonalds.pdb
+C:\Users\kirkp\OneDrive\Documents\BSCS(3)\1st sem\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\bin\Debug\Guna.UI2.dll
+C:\Users\kirkp\OneDrive\Documents\BSCS(3)\1st sem\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.csproj.AssemblyReference.cache
+C:\Users\kirkp\OneDrive\Documents\BSCS(3)\1st sem\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.csproj.SuggestedBindingRedirects.cache
+C:\Users\kirkp\OneDrive\Documents\BSCS(3)\1st sem\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang_ang_Pattawi_McDonalds.MainWindow.resources
+C:\Users\kirkp\OneDrive\Documents\BSCS(3)\1st sem\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang_ang_Pattawi_McDonalds.Properties.Resources.resources
+C:\Users\kirkp\OneDrive\Documents\BSCS(3)\1st sem\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.csproj.GenerateResource.cache
+C:\Users\kirkp\OneDrive\Documents\BSCS(3)\1st sem\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.csproj.CoreCompileInputs.cache
+C:\Users\kirkp\OneDrive\Documents\BSCS(3)\1st sem\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.csproj.CopyComplete
+C:\Users\kirkp\OneDrive\Documents\BSCS(3)\1st sem\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.exe
+C:\Users\kirkp\OneDrive\Documents\BSCS(3)\1st sem\ADET\MIDTERM\Ayang-ang_Pattawi_McDonalds\Ayang-ang_Pattawi_McDonalds\obj\Debug\Ayang-ang_Pattawi_McDonalds.pdb
